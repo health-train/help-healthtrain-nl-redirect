@@ -1,0 +1,2 @@
+# Redirect Help Center traffic
+https://help.healthtrain.nl/* https://help.mijnzorgapp.com/:splat 301!
