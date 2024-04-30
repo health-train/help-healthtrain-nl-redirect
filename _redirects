@@ -1,2 +1,4 @@
 # Redirect Help Center traffic
-https://help.healthtrain.nl/* https://help.mijnzorgapp.com/:splat 301!
+https://help.healthtrain.nl/* https://help.mijnzorgapp.com/:splat 301
+https://healthtrain-help-center-redirect.netlify.app/* https://help.mijnzorgapp.com/:splat 301
+* https://www.mijnzorgapp.com 301
